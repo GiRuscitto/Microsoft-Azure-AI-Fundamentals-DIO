@@ -19,6 +19,7 @@ Passo 6: Ir até o AI Services - AI Search e importar os dados.
 Passo 7: Após todas as configurações, consultar o índice no search explorer.
 
 Comandos feitos na aula: 
+
     search=*&$count=true   
     (A consulta de pesquisa retorna todos os documentos no índice de pesquisa, incluindo uma contagem de todos os documentos no campo @odata.count)
 
